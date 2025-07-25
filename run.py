@@ -1,0 +1,2 @@
+import thuuuu
+thuuuu.error()
